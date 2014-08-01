@@ -1,11 +1,17 @@
 <?php
 /*
 Plugin Name: JSON API
-Plugin URI: http://wordpress.org/plugins/json-api/
+Plugin URI: https://github.com/alexsalas/wp-json-api
 Description: A RESTful API for WordPress
 Version: 1.1.1
-Author: Dan Phiffer
-Author URI: http://phiffer.org/
+Author: Dan Phiffer forked by Alexander Salas
+Author URI: http://github.com/alexsalas
+License:           GNU General Public License v3
+License URI:       http://www.gnu.org/licenses/gpl-3.0.html
+Domain Path:       /languages
+Text Domain:       wp-json-api
+GitHub Plugin URI: https://github.com/alexsalas/wp-json-api
+GitHub Branch:     master
 */
 
 $dir = json_api_dir();
